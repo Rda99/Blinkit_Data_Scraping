@@ -70,4 +70,4 @@ The script produces a CSV file with the following columns:
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
